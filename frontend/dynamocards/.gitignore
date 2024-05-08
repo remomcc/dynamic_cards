@@ -1,3 +1,9 @@
+#Authentication
+authentication.json
+
+#Virtual environment
+env/
+
 # Logs
 logs
 *.log
