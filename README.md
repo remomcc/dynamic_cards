@@ -47,9 +47,9 @@ Flash cards are effective. Current research shows that digital flash cards are e
 FastAPI -> YouTube Video Link -> Split the video transcript into documents (chunks of 1000 characters) -> Divide into a sample size of 5 documents per group —> Find the key concepts by feeding into the Gemini Pro large language model via Vertex AI -> Convert output into a Python dictionary —> Display cards
 
 ## Loom presentation
-#https://www.loom.com/share/632e758ea49e42d19bf3f3b02d62425a
+https://www.loom.com/share/632e758ea49e42d19bf3f3b02d62425a
 
-#https://pitch.com/v/ai-dynamocards-making-motivation-utility-8jd597
+https://pitch.com/v/ai-dynamocards-making-motivation-utility-8jd597
 
 ## Time allocated for this project
 30-40 hours. The most difficult aspect of this project was cleaning the json string. Regex needed to be used; assistance provided by ChatGPT.
