@@ -13,7 +13,7 @@ Flash cards are effective. Current research shows that digital flash cards are e
 ### Running in VS Code terminal
 1) Clone GitHub Repository
    ```python 
-   git clone https://github.com/remomcc/Quiz-Generator.git
+   git clone https://github.com/remomcc/dynamic_cards.git
    ```
 2) Create virtual environment
    ```python
